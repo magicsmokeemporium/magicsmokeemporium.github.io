@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /aboot/
+permalink: /about/
 ---
 
 Some information about you!
