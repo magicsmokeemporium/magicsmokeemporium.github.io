@@ -5,9 +5,9 @@ title: Simply the best
 
 woo laddey
 
-[look at this link](reddit.com)
+[look at this link](https://www.reddit.com/)
 
-##I AM THE IMPORTANTEST
+## I AM THE IMPORTANTEST
 
 ![look at meee]({{ site.baseurl }}/images/jekyll-logo.png "this thing is in my files")
 
@@ -17,10 +17,12 @@ i said **important**
 
 _important_ yo said?
 
->important
+>important  
+
 \-he said
 
->>indeed
+>indeed  
+
 -he did
 
 line
